@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mondrande.github.io/sitemap.html.gz
+Sitemap: https://mondrande.github.io/app/sitemap.html.gz
+Sitemap: https://mondrande.github.io/assets/sitemap.html.gz
+Sitemap: https://mondrande.github.io/css/sitemap.html.gz
+Sitemap: https://mondrande.github.io/includes/sitemap.html.gz
+Sitemap: https://mondrande.github.io/item/sitemap.html.gz
+Sitemap: https://mondrande.github.io/src/sitemap.html.gz
